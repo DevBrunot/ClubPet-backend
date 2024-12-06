@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5Wrp4R1JgrlYJWnqrzsqb0uLp2z8McC/YREjXFZ5cS0=",
+  "Source": "ApiClubPet",
+  "BasePath": "_content/ApiClubPet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

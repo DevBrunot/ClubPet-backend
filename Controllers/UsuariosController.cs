@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using ClubPetAPI.Data;
-using ClubPetAPI.Models;
 using System.Collections.Generic;
+using MeuProjetoAPI.Models;
 
 namespace ClubPetAPI.Controllers
 {
